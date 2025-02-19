@@ -1,0 +1,24 @@
+{
+    "Customer": "Harshita",
+    "Email": "harshitaanalaa@gmail.com",
+    "Order": [
+        {
+            "name": "Milkshake",
+            "price": 4.99,
+            "quantity": 2
+        },
+        {
+            "name": "Ice Cream",
+            "price": 2.99,
+            "quantity": 19
+        },
+        {
+            "name": "BBQ Wings",
+            "price": 6.99,
+            "quantity": 3
+        }
+    ],
+    "Subtotal": 87.76,
+    "Tax": 13.16,
+    "Total": 100.92
+}
